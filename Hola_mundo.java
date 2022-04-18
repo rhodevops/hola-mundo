@@ -7,6 +7,7 @@ public class Hola_mundo {
 		System.out.println("Hola Pepe!");
 		System.out.println("Hola Pepe!");
 		System.out.println("Hola marta!");
+		System.out.println("Hola juan!");
 
 	}
 
